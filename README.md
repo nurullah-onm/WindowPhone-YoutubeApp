@@ -3,6 +3,10 @@
 <p align="center">
   <img src="https://cdn.mos.cms.futurecdn.net/KUrR3BhjAVgfFZJs4zLRaD.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
+
+
+
+
 ### 🔄 Updates & Support
 
 Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
@@ -16,8 +20,13 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
   </a>
 </p>
 
+
+
+
 ### 📜 License
 
 This project Is Licensed Under The MIT License. For More Details, See The [LICENSE](LICENSE) File.
 
 ---
+
+
