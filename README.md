@@ -9,7 +9,7 @@
 
 ### 🔄 Updates & Support
 
-Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
+Stay Updated With The Latest Features And Improvements To Youtube App:
 
 <p align="center">
   <a href="https://telegram.me/NexAwa">
@@ -21,6 +21,7 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 </p>
 
 
+<h2>You can download the program from our Telegram channel.</h2>
 
 
 ### 📜 License
